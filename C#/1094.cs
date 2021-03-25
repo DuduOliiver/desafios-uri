@@ -4,6 +4,7 @@ class URI
 {
     private static void Main()
     {
+
         int cobaias = 0;
         int coelhos = 0;
         int ratos = 0;
